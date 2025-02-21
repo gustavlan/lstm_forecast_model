@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Python bytecode files
+*.py[cod]
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Other temporary files
+*.log
